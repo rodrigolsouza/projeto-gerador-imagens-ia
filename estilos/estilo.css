@@ -282,10 +282,6 @@ footer{
     margin: 10px 0px 0px;
     padding: 10px 10px ;
 
-    >nav>h3{
-        margin:0px 5px;
-        text-align: center;
-    }
 
     >nav>ol>li{
         display: inline-block;
